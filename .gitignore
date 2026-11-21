@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datasets
+data/
+*.csv
+
+# Generated model and output files
+outputs/
+outputs_paysim/
+*.joblib
+*.pt
+*.pkl
+
+# Duplicate nested project
+fraud-detection/
+
+# System files
+.DS_Store
+Thumbs.db
